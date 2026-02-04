@@ -72,24 +72,45 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
 
----
+## Tabulation for 2.5GB and 10 GB:
+<img width="1600" height="1569" alt="image" src="https://github.com/user-attachments/assets/a5d951a7-1966-4936-a2b4-0e5b2510d7a6" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1d6ec6b5-5823-479e-8df4-5a0d399b9db9" />
+
+## High Noise for 2.5 GB
+<img width="1537" height="798" alt="image" src="https://github.com/user-attachments/assets/f1215bba-811d-4eb4-82ef-2973f7502553" />
+
+## Low Noise for 2.5 GB
+<img width="1537" height="783" alt="image" src="https://github.com/user-attachments/assets/65799f52-e280-4e15-94f0-0eed68f286c1" />
+
+## High Noise for 10 GB
+<img width="1535" height="790" alt="image" src="https://github.com/user-attachments/assets/db01b3f4-f002-422f-8d13-d0ecf78c46c5" />
+
+## Low Noise for 10 GB
+<img width="1558" height="797" alt="image" src="https://github.com/user-attachments/assets/b313d123-53c5-4e2a-ac22-e0ab7bc69b83" />
 
 ## Analysis and Report
-Compare simulation results with pre-lab calculations and record observations.  
+Compare simulation results with pre-lab calculations and record observations.
+
+## Description
+Attenuation measurement at 2.5 Gbps and 10 Gbps evaluates the optical power loss in a fiber due to absorption, scattering, and connection losses. This measured attenuation determines the attenuation-limited fiber length, which is the maximum distance the signal can travel while still maintaining sufficient power at the receiver for reliable communication.
+
+## Result :
+Thus the attenuation-limited fiber length based on the power budget equation is successfully simulated and verified.
 
 Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
 
-- **Pre-lab Calculations**  
+Cover Page
 
-- **Screenshots** of layout and results (including eye diagrams)  
+Title of the lab
+Course name and number
+Your name
+Pre-lab Calculations
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
+Screenshots of layout and results (including eye diagrams)
 
-- **Written Summary** of observations and explanations of differences.  
+Summary Table for each simulation:
+
+<img width="482" height="27" alt="image" src="https://github.com/user-attachments/assets/bb89bab7-4a1b-486c-acf9-31ce6f0c6541" />
+
+Written Summary of observations and explanations of differences.
